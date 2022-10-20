@@ -5,7 +5,7 @@ Weakly supervised learning is an essential problem in computer vision tasks, suc
 object recognition, etc., because it is expected to work in the scenarios where a large dataset with clean
 labels is not available.
 
-![image](https://user-images.githubusercontent.com/67594298/197056562-eee22d08-51b1-4a4e-b115-33b1c43c2688.png)
+![image](https://user-images.githubusercontent.com/67594298/197056562-eee22d08-51b1-4a4e-b115-33b1c43c2688.png =250x250)
 
 ## Goal
 - Implementing a noise regularizing CNN model and Weakly supervised GAN that can classify images with noisy labels.
